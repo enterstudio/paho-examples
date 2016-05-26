@@ -1,0 +1,7 @@
+{
+    "Connecting using TLS in the Java Client" :{
+        "description" : "This example shows you how to connect to an MQTT server using TLS / SSL",
+        "language" : "java",
+        "file" : "java/java_tls.md"
+    }
+}
